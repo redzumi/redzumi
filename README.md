@@ -7,8 +7,8 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="K8S" src="https://img.shields.io/badge/kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 ![Evgeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=redzumi&hide=issues,stars)
 
-![Profile views](https://gpvc.arturio.dev/redzumi)  
