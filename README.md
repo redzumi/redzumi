@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/d91e2c66-ad70-40c3-8bca-cad4dbb6a0ea.svg)](https://wakatime.com/@d91e2c66-ad70-40c3-8bca-cad4dbb6a0ea)
+
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
@@ -10,5 +12,5 @@
 <img alt="K8S" src="https://img.shields.io/badge/kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
-![Evgeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=redzumi&hide=issues,stars)
+![Evgeny's GitHub stats](https://github-readme-stats-sigma-eight-59.vercel.app/api?username=redzumi&hide=issues,stars)
 
