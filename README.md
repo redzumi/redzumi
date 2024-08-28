@@ -12,5 +12,10 @@
 <img alt="K8S" src="https://img.shields.io/badge/kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
-![Evgeny's GitHub stats](https://github-readme-stats-sigma-eight-59.vercel.app/api?username=redzumi&hide=issues,stars)
+<a href="https://github.com/redzumi">
+  <img align="center" src="https://github-readme-stats-sigma-eight-59.vercel.app/api?username=redzumi&hide=issues,stars" />
+</a>
 
+<a href="https://github.com/redzumi">
+  <img align="center" src="https://github-readme-stats-sigma-eight-59.vercel.app/api/top-langs/?username=redzumi&layout=compact" />
+</a>
