@@ -23,5 +23,5 @@
 </div> -->
 
 <div align="center">
-  <img src="https://wakatime.com/share/@redzumi/562b7ec1-cf87-49f8-be25-dcb79146aee3.svg" alt="WakaTime Activity" />
+  <img src="https://wakatime.com/share/@redzumi/562b7ec1-cf87-49f8-be25-dcb79146aee3.svg" style="height: 450px;" alt="WakaTime Activity" />
 </div>
