@@ -23,11 +23,11 @@
     <img align="center" src="https://github-readme-stats-sigma-eight-59.vercel.app/api/top-langs/?username=redzumi&layout=compact" />
   </a>
 </div> -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/redzumi">
     <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=redzumi&theme=dark&hide_border=false" height="125" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://wakatime.com/share/@redzumi/562b7ec1-cf87-49f8-be25-dcb79146aee3.svg" style="height: 400px;" alt="WakaTime Activity" />
